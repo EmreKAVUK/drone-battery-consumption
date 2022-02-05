@@ -1,0 +1,17 @@
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.csproj.AssemblyReference.cache
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.Form1.resources
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.csproj.GenerateResource.cache
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.AssemblyInfoInputs.cache
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.AssemblyInfo.cs
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.csproj.CoreCompileInputs.cache
+C:\Users\emrek\source\repos\batarya\batarya\bin\Debug\net6.0-windows\batarya.exe
+C:\Users\emrek\source\repos\batarya\batarya\bin\Debug\net6.0-windows\batarya.deps.json
+C:\Users\emrek\source\repos\batarya\batarya\bin\Debug\net6.0-windows\batarya.runtimeconfig.json
+C:\Users\emrek\source\repos\batarya\batarya\bin\Debug\net6.0-windows\batarya.dll
+C:\Users\emrek\source\repos\batarya\batarya\bin\Debug\net6.0-windows\ref\batarya.dll
+C:\Users\emrek\source\repos\batarya\batarya\bin\Debug\net6.0-windows\batarya.pdb
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.dll
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\ref\batarya.dll
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.pdb
+C:\Users\emrek\source\repos\batarya\batarya\obj\Debug\net6.0-windows\batarya.genruntimeconfig.cache
